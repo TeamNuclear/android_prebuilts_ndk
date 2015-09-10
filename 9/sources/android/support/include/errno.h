@@ -37,7 +37,6 @@
 #endif
 
 #define ELAST ENOTRECOVERABLE
-
 #endif // !__LP64__
 
 #endif  /* NDK_ANDROID_SUPPORT_ERRNO_H */
